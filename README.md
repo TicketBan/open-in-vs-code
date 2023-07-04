@@ -10,11 +10,11 @@ In case of failure:
 
 2) Type "regedit" and press Enter to open the Registry Editor.
 
-3)In the Registry Editor navigate to the following path:
+3) In the Registry Editor navigate to the following path:
 HKEY_CLASSES_ROOT\Directory\Background\shell
 
-4)In this section find the "OpenVsCode" key and right click on it.
+4) In this section find the "OpenVsCode" key and right click on it.
 
-5)Select "Delete" from the context menu.
+5) Select "Delete" from the context menu.
 
 6) Confirm key deletion.
